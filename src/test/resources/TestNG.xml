@@ -1,0 +1,10 @@
+<suite name="test1" verbose="1">
+<listeners>
+	<listener class-name="com.BooksWagon.Utilities.MyListener"/>
+</listeners>
+<test name="POMframework for Login">
+<classes>
+<class name="com.BooksWagon.Runner.TestRunner3"></class>
+</classes>
+</test>
+</suite>
